@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Prova</string>
+    <string name="dica_busca">cliente</string>
+    <string name="txt_botao">Ligar</string>
+  </resources>
